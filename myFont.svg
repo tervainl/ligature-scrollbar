@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <metadata>
+</metadata>
+  <defs>
+    <font id="myFont" horiz-adv-x="0" >
+      <font-face font-family="myFont" units-per-em="1000" />
+      <missing-glyph />
+      <glyph unicode = "a" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "b" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "c" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "d" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "e" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "f" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "g" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "h" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "i" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "j" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "k" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "l" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "m" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "n" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "o" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "p" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "q" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "r" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "s" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "t" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "u" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "v" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "w" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "x" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "y" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "z" horiz-adv-x = "0" d = "M1 0z" />
+      <glyph unicode = "richi" horiz-adv-x = "9999999" d = "M1 0z" />
+    </font>
+  </defs>
+</svg>

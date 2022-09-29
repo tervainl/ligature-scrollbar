@@ -1,0 +1,42 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+head {
+  display: block;
+}
+
+head script {
+  display: block;
+  font-family: "myFont";
+  font-size: 50px;
+}
+
+@font-face {
+  font-family: "myFont";
+  src: url(data:application/font-woff;base64,d09GRk9UVE8AAASEAA0AAAAABsQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAADCAAAAMMAAAEUfSDSWEZGVE0AAARYAAAAGgAAAByZCmYLR0RFRgAAA8wAAAAhAAAAJABOADlHUE9TAAAEOAAAACAAAAAgbJF0j0dTVUIAAAPwAAAARwAAAFbZWdw2T1MvMgAAAYQAAABEAAAAYFXjXL5jbWFwAAACpAAAAFgAAAFKYztWsWhlYWQAAAEwAAAAKgAAADYd1Qz/aGhlYQAAAVwAAAAgAAAAJAN8mbxobXR4AAAEdAAAAA0AAABwA+gAAG1heHAAAAF8AAAABgAAAAYAHFAAbmFtZQAAAcgAAADaAAABetB/68twb3N0AAAC/AAAAAwAAAAgAAMAAHicY2BkYGAA4s0fbXrj+W2+MnAzvwCKMNyPTuNFpqGAg4EJRAEAJGYIaQAAeJxjYGRgYFb4b8EQxfyCgWFaPQMDA1AEBcgAAGCxA9MAAFAAABwAAHicY2Bm/MI4gYGVgYOpi2kPAwNDD4RmfMBgyMjEwMDEwMrMAAOMDEggIM01hcGBIZGhilnhvwVDFIYaBSBkBQBayApLeJxtkDFuwjAUhr9ACEKgbu1sITEmCt7CXOUAHdgZrCgSJJKBgYtwArYeowfoCXqX/k5cqQN+st7n5/+93zKw4k5CWAkZL5EnzNlEnrLmHDmV5hF5xpKvyJniR8okXaiyGroCTzTxNfKUd/LI6eA78ow3PiNnqn9z4kZNT8cFTre675Q/cDRcOXLA6+ia6/Eg+BOG7KVwGCwFpfJO+/+wsWKp9JCwrVRWQbCoe984Y4vS7MxoKrBVXuW2tNI8fdVefl7f0w4Xhu3gzN75c9t3ZluUzxt/AZ3kNeEAAHicY2BgYGaAYBkGRgYQcAHyGMF8FgYNIM0GpBkZmICsqv//wSoSQfT/BVD1QMDIxoDg0AowMjGzsLKxc3BycfPw8vELCAoJi4iKiUtIStHaZqIAALdlCJ94nGNgZsALAAB9AAR4nGNkYGFhYGRkZM+tdMvPK2FgZGJgZND4IcP0Q5b5hwRLNw9zNw9LNxCwyjDE88swMAjIMEwTlGFgl2HkFWJgBqnmYhBgECuKz4xPjs+Iz4SYAzUNCJwYnBlcGFwZ3BjcGTwYPBm8GLwZfBh8GfwY/BkCGAIZghiCGUIYQhnCGMIZIhgiGaIYohnbGWQYGVnYuXgFhMUkZeSVVDW09QxNzK1sHZzdPH38gyJ+1fD1iFETyUyrB5LdIt2i3TxcAOVYOJ0AeJxjYGRgYOABYhkgZgJCRgYpIJYGQiYGFrAYAwAJnwCIAAAAeJxjYGRgYOBikGPQYWDMSSzJY+BgYAGKMPz/zwCSYczJTE8EijFAeEA5FjDNAcQSUJqFQZqBlYGTgRnI4wTyGRmEAHLqBkIAAAEAAAAKABwAHgABbGF0bgAIAAQAAAAA//8AAAAAAAB4nGNgYGBkAIJbwTM/gOj70Wm8MBoASkwGEgAAeJxjfsFAVwAAZlgA7AAAAA==);
+}
+
+body {
+  width: 100vw;
+  white-space: nowrap;
+}
+
+body::-webkit-scrollbar {
+  background: blue;
+}
+
+body::-webkit-scrollbar:horizontal {
+  background: url(https://www.exapmle.com/xxxxxxx);
+}
+
+#span {
+  background: lightblue;
+  font-family: "myFont";
+  font-size: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
