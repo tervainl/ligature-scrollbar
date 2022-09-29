@@ -12,17 +12,13 @@
 
 body {
   width: 100vw;
-  white-space: nowrap;
   overflow-x: auto;
 }
 
 body script:first-child {
+  white-space: nowrap;
   font-family: "myFont";
   font-size: 100px;
-}
-
-body::-webkit-scrollbar {
-  background: blue;
 }
 
 body::-webkit-scrollbar:horizontal {
