@@ -1,18 +1,8 @@
 * {
   -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0;
   padding: 0;
-}
-
-head {
-  display: block;
-}
-
-head script {
-  display: block;
-  font-family: "myFont";
-  font-size: 50px;
 }
 
 @font-face {
@@ -23,6 +13,12 @@ head script {
 body {
   width: 100vw;
   white-space: nowrap;
+  overflow-x: auto;
+}
+
+body script:first-child {
+  font-family: "myFont";
+  font-size: 100px;
 }
 
 body::-webkit-scrollbar {
@@ -30,13 +26,12 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar:horizontal {
-  background: url(https://www.exapmle.com/xxxxxxx);
+  background: url(https://myServer.com/xxxxxxxx);
 }
 
 #span {
   background: lightblue;
   font-family: "myFont";
-  font-size: 50px;
+  font-size: 100px;
 }
-
 /*# sourceMappingURL=style.css.map */
