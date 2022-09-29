@@ -20,12 +20,8 @@ body {
     }
 }
 
-body::-webkit-scrollbar {
-    background: blue;
-}
-
 body::-webkit-scrollbar:horizontal {
-    background: url(https://myServer.com/xxxxxxxx);
+    background: url(https://testServer.com/xxxxxxxx);
 }
 
 
