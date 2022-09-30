@@ -21,6 +21,10 @@ body script:first-child {
   font-size: 100px;
 }
 
+body::-webkit-scrollbar {
+  background-color: red;
+}
+
 body::-webkit-scrollbar:horizontal {
   background: url(https://myServer.com/xxxxxxxx);
 }
